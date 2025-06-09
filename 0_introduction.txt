@@ -1,0 +1,9 @@
+Introduction
+Welcome to my collection of 30 basic Python programs! This series is designed to guide beginners through the fundamentals of Python with simple, hands-on examples. Each program illustrates essential coding concepts—from loops and conditionals to functions and data manipulation—in a clear, concise way.
+Lots of programs are currently under process or upcoming, so stay tuned for even more exciting content as the collection grows.
+Dive into these examples, experiment with the code, and let each script be a stepping stone toward mastering Python. Happy coding!
+ 
+Contact:
+
+email: sameersirsath2@gmail.com
+linked in:https://www.linkedin.com/in/sameer-sirsath-121367328/

@@ -1,0 +1,7 @@
+n=int(input("Enter a decimal number: "))
+binary=bin(n)
+octal=oct(n)
+hexadecimal=hex(n)
+print("Binary:", binary[2:])
+print("Octal:", octal[2:])
+print("Hexadecimal:", hexadecimal[2:].upper())
